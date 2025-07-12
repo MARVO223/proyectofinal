@@ -1,0 +1,31 @@
+.navbar {
+  background-color: $dark-color;
+
+  .navbar-brand {
+    font-weight: bold;
+  }
+
+  .nav-link {
+    color: $light-color !important;
+
+    &:hover {
+      color: $primary-color !important;
+    }
+  }
+}
+@media (max-width: 576px) {
+  .navbar-nav {
+    text-align: center;
+  }
+
+  .nav-item {
+    margin: 0.5rem 0;
+  }
+}
+.navbar {
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: lighten($dark-color, 10%);
+  }
+}

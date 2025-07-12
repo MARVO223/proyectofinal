@@ -1,0 +1,23 @@
+body {
+  font-family: $font-stack;
+  color: $text-color;
+  line-height: 1.6;
+}
+
+body {
+  background: linear-gradient(135deg, #e3f2fd, #ffffff);
+  min-height: 100vh;
+  padding-top: 70px;
+  transition: background 0.5s ease-in-out;
+}
+
+a.btn {
+  border-radius: 25px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease-in-out;
+}
+
+a.btn:hover {
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}

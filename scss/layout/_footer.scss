@@ -1,0 +1,11 @@
+footer {
+  background-color: $dark-color;
+  color: $light-color;
+  padding: 2rem 0;
+}
+@media (max-width: 576px) {
+  footer {
+    font-size: 0.9rem;
+    padding: 1rem 0;
+  }
+}
