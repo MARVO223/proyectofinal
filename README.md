@@ -8,7 +8,7 @@ Visualizá el sitio directamente en GitHub Pages:
 🔗 [https://marvo223.github.io/proyectofinal/](https://marvo223.github.io/proyectofinal/)
 
 También podés clonar el repositorio o descargar el ZIP y abrir el archivo:  
-`/docs/index.html` en tu navegador local.
+`/pages/index.html` en tu navegador local.
 
 ---
 
