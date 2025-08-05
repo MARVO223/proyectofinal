@@ -6,6 +6,7 @@ Este repositorio contiene mi **portafolio personal** desarrollado como parte de 
 
 Visualizá el sitio directamente en GitHub Pages:  
 🔗 [https://marvo223.github.io/proyectofinal/](https://marvo223.github.io/proyectofinal/)
+🔗 [[https://tourmaline-queijadas-b67d3f.netlify.app/pages/index.html](https://tourmaline-queijadas-b67d3f.netlify.app/pages/index.html)/]( /)
 
 También podés clonar el repositorio o descargar el ZIP y abrir el archivo:  
 `/pages/index.html` en tu navegador local.
